@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.8" hassounds="0" start="node1" apprev="20986">
+  <panorama id="node1">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="102.057">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="102.057" info="" longitude="-51.70674487" comment="" customnodeid="" nodeid="node1" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365474,-51.7067449,3a,75y,102.06h,90t/data=!3m4!1e1!3m2!1sAF1QipOYgVhPfe33Kdd0MI146uPfF5auEp5eJMN_44iI!2e10" description="" tags="KRDEquipamentos" latitude="-24.23654741" source="" datetime="17/12/2024 18:04"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node2}" tilt="0.23" id="Point01" target="0.0/0.0/108.2" title="KRD Equipamentos" distance="11.416" pan="-359.51" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="98.9471">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="98.9471" info="" longitude="-51.70663490" comment="" customnodeid="" nodeid="node2" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365694,-51.7066349,3a,75y,98.95h,90t/data=!3m4!1e1!3m2!1sAF1QipP2jqtJ7A4G_SSXaaXorzohWhnx9CPYY42Szuum!2e10" description="" tags="KRDEquipamentos" latitude="-24.23656943" source="" datetime="17/12/2024 18:06"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node3}" tilt="0.31" id="Point01" target="" title="KRD Equipamentos" distance="12.4036" pan="-5.14" description="" skinid="ht_node"/>
+      <hotspot url="{node1}" tilt="0.09" id="Point02" target="179.0/0.0/100.0" title="KRD Equipamentos" distance="11.416" pan="-185.82" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="104.747">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="104.747" info="" longitude="-51.70651688" comment="" customnodeid="" nodeid="node3" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365988,-51.7065169,3a,75y,104.75h,90t/data=!3m4!1e1!3m2!1sAF1QipMifbMMg_7Dzpl8Q6vnpnuDin_QPeyVsxZzMA_4!2e10" description="" tags="KRDEquipamentos" latitude="-24.23659878" source="" datetime="17/12/2024 18:07"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node5}" tilt="-2.34" id="Point01" target="90.4/0.2/108.2" title="KRD Equipamentos" distance="4.60091" pan="-282" description="" skinid="ht_node"/>
+      <hotspot url="{node6}" tilt="-0.09" id="Point02" target="-1.0/0.0/100.0" title="KRD Equipamentos" distance="5.38765" pan="-0.32" description="" skinid="ht_node"/>
+      <hotspot url="{node2}" tilt="-0.27" id="Point03" target="174.0/0.0/100.0" title="KRD Equipamentos" distance="12.4036" pan="-180.82" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="0" info="" longitude="-51.70653968" comment="" customnodeid="" nodeid="node4" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365547,-51.7065397,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipN9BiuDSnRBDfxT1rIFzD3dh2KFat73U9smYzH-!2e10" description="" tags="KRDEquipamentos" latitude="-24.23655475" source="" datetime="17/12/2024 18:08"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node5}" tilt="0.31" id="Point01" target="1.0/0.0/100.0" title="KRD Equipamentos" distance="3.84613" pan="-86.21" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="102.78">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="102.78" info="" longitude="-51.70650213" comment="" customnodeid="" nodeid="node5" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365597,-51.7065021,3a,75y,102.78h,90t/data=!3m4!1e1!3m2!1sAF1QipNOp3fUuC9zjCOBPibfjcKzsK1EYOLcptfPRzZO!2e10" description="" tags="KRDEquipamentos" latitude="-24.23655965" source="" datetime="17/12/2024 18:09"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node4}" tilt="-1.8" id="Point01" target="92.0/0.0/108.2" title="KRD Equipamentos" distance="3.84613" pan="-185.43" description="" skinid="ht_node"/>
+      <hotspot url="{node3}" tilt="0.63" id="Point02" target="-84.0/0.0/100.0" title="KRD Equipamentos" distance="4.60091" pan="-88.67" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="103.066">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="103.066" info="" longitude="-51.70646458" comment="" customnodeid="" nodeid="node6" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2366073,-51.7064646,3a,75y,103.07h,90t/data=!3m4!1e1!3m2!1sAF1QipPiuq2WhdbJauMfr_ThBki_8fP4lUMcJ0JNgF5E!2e10" description="" tags="KRDEquipamentos" latitude="-24.23660734" source="" datetime="17/12/2024 18:10"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node7}" tilt="0.09" id="Point01" target="-120.0/0.0/117.0" title="KRD Equipamentos" distance="7.26916" pan="-94.98" description="" skinid="ht_node"/>
+      <hotspot url="{node8}" tilt="0.27" id="Point02" target="0.0/0.0/100.0" title="KRD Equipamentos" distance="9.39898" pan="-2.76" description="" skinid="ht_node"/>
+      <hotspot url="{node3}" tilt="-1.34" id="Point03" target="179.0/0.0/100.0" title="KRD Equipamentos" distance="5.38765" pan="-180.36" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="62.7087">
+      <start pan="-126.405" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="62.7087" info="" longitude="-51.70647397" comment="" customnodeid="" nodeid="node7" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2366722,-51.706474,3a,75y,189.11h,90t/data=!3m4!1e1!3m2!1sAF1QipNnjWXWwUxPdCc99WSDOZgk_BTJs6zsH1UYNydi!2e10" description="" tags="KRDEquipamentos" latitude="-24.23667215" source="" datetime="17/12/2024 18:12"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node6}" tilt="-0.37" id="Point01" target="83.0/0.0/100.0" title="KRD Equipamentos" distance="7.26916" pan="-300.41" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="101.796">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="101.796" info="" longitude="-51.70637473" comment="" customnodeid="" nodeid="node8" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2366281,-51.7063747,3a,75y,101.8h,90t/data=!3m4!1e1!3m2!1sAF1QipOa_TSr-8nVLZVqZuacZp_V0U6Z99wHpbXY3nIA!2e10" description="" tags="KRDEquipamentos" latitude="-24.23662813" source="" datetime="17/12/2024 18:13"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node9}" tilt="-4.05" id="Point01" target="0.0/0.0/108.2" title="KRD Equipamentos" distance="5.57454" pan="-81.66" description="" skinid="ht_node"/>
+      <hotspot url="{node11}" tilt="-0.09" id="Point02" target="90.4/0.0/100.0" title="KRD Equipamentos" distance="14.9676" pan="-4.71" description="" skinid="ht_node"/>
+      <hotspot url="{node6}" tilt="-0.63" id="Point03" target="180.0/0.0/100.0" title="KRD Equipamentos" distance="9.39898" pan="-177.46" description="" skinid="ht_node"/>
+      <hotspot url="{node12}" tilt="0.07" id="Point04" target="0.0/0.0/100.0" title="KRD Equipamentos" distance="8.29941" pan="-289.55" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="190.43">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="190.43" info="" longitude="-51.70638680" comment="" customnodeid="" nodeid="node9" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.236677,-51.7063868,3a,75y,190.43h,90t/data=!3m4!1e1!3m2!1sAF1QipM5ne5XWblS7Jfz1npEko86YFSHuM3R8Un6jIZq!2e10" description="" tags="KRDEquipamentos" latitude="-24.23667704" source="" datetime="17/12/2024 18:14"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node8}" tilt="0.1" id="Point01" target="91.0/0.0/100.0" title="KRD Equipamentos" distance="5.57454" pan="-194.34" description="" skinid="ht_node"/>
+      <hotspot url="{node10}" tilt="-1.16" id="Point02" target="-129.0/0.0/100.0" title="KRD Equipamentos" distance="2.65982" pan="-356.65" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="37.3818">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="37.3818" info="" longitude="-51.70638881" comment="" customnodeid="" nodeid="node10" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2367009,-51.7063888,3a,75y,37.38h,90t/data=!3m4!1e1!3m2!1sAF1QipNYJvL7I4aBOEp0SEozyISa_l6fZIMSqVRXrHJN!2e10" description="" tags="KRDEquipamentos" latitude="-24.23670089" source="" datetime="17/12/2024 18:15"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node9}" tilt="-0.27" id="Point01" target="170.0/0.0/108.2" title="KRD Equipamentos" distance="2.65982" pan="-296.56" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-171.583">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="-171.583" info="" longitude="-51.70623390" comment="" customnodeid="" nodeid="node11" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2366685,-51.7062339,3a,75y,188.42h,90t/data=!3m4!1e1!3m2!1sAF1QipPe5RcujBVcfOHFTwl3fLcSg6ghmkfO02VFZvqq!2e10" description="" tags="KRDEquipamentos" latitude="-24.23666848" source="" datetime="17/12/2024 18:21"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node8}" tilt="0.27" id="Point01" target="-178.0/0.0/100.0" title="KRD Equipamentos" distance="14.9676" pan="-91.28" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="0" info="" longitude="-51.70640021" comment="" customnodeid="" nodeid="node12" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365572,-51.7064002,3a,75y,90t/data=!3m4!1e1!3m2!1sAF1QipPUunP1AnhwtZ1mGhcP8NWCvYbHRF2E62PnFWcn!2e10" description="" tags="2|KRDEquipamentos" latitude="-24.23655720" source="" datetime="17/12/2024 18:46"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node8}" tilt="0.2" id="Point01" target="-81.0/0.0/100.0" title="KRD Equipamentos" distance="8.29941" pan="-201" description="" skinid="ht_node"/>
+      <hotspot url="{node13}" tilt="0.94" id="Point02" target="90.0/0.0/117.0" title="KRD Equipamentos" distance="12.6429" pan="-271.17" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" levelbias="0.400" levelingroll="0" width="2625" height="2625" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelbiashidpi="1.000" overlap="1" levelingpitch="0">
+      <level width="2625" height="2625" predecode="0" preload="0"/>
+      <level width="1312" height="1312" predecode="0" preload="0"/>
+      <level width="656" height="656" predecode="0" preload="0"/>
+      <level width="328" height="328" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="9.03346">
+      <start pan="0" projection="4" tilt="0" fov="100"/>
+      <flyin pan="0" projection="9" tilt="-90" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" pan="360" tilt="90" fovstereographic="330" fovfisheye="360" fov="140"/>
+    </view>
+    <userdata heading="9.03346" info="" longitude="-51.70651823" comment="" customnodeid="" nodeid="node13" copyright="MARCELO RIBEIRO   GUTIARA RI" title="KRD Equipamentos" author="MGTOUR360GRAUS" streetviewlink="https://www.google.com/maps/@-24.2365205,-51.7065182,3a,75y,9.03h,90t/data=!3m4!1e1!3m2!1sAF1QipMKkw6dMmaOBSHfXiPPxoJVi7EJgs147SAe0yLV!2e10" description="" tags="2|KRDEquipamentos" latitude="-24.23652051" source="" datetime="17/12/2024 18:48"/>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label background="1" width="180" height="20" wordwrap="1" textalpha="1" bordercolor="0x000000" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" textcolor="0x000000" enabled="1" backgroundalpha="1" border="1"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1"/>
+      <hotspot url="{node12}" tilt="1.08" id="Point01" target="-92.0/0.0/100.0" title="KRD Equipamentos" distance="12.6429" pan="-122.86" description="" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition zoomout="0" type="crossdissolve" zoomafteroutfov="-1" blendcolor="0x000000" softedge="0" zoomafterinfov="-1" blendtime="1" zoomfov="40" enabled="1" zoomspeed="2" zoomoutpause="1" delay="none" zoomin="0"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control contextfullscreen="1" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" lockedwheel="0" contextvr="1" hideabout="0" zoomcentercursor="1" sensitivity="8" lockedkeyboardzoom="0" contextprojections="0" lockedmouse="0" invertwheel="0" speedwheel="1" rubberband="0" invertcontrol="1"/>
+  </panorama>
+  <masternode>
+    <userdata title="KRD Equipamentos" author="MG TOUR 360" description="KRD Equipamentos" comment="" tags="" copyright=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
